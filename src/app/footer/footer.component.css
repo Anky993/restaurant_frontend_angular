@@ -1,0 +1,35 @@
+.footer {
+  background-color: rgb(37, 37, 35);
+  height: 300px;
+  padding-top: 50px;
+}
+
+img {
+  height: 80px;
+  width: auto;
+}
+
+p {
+
+  padding-top: 8px;
+  color: rgb(136, 190, 150);
+}
+h2 {
+  color: #f4f4f4;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.line {
+  /* margin: 0 auto; */
+  display: block;
+  border: 1px solid rgb(136, 190, 150);
+  width: 88px;
+  margin-bottom: 20px;
+}
+
+a {
+  color : rgb(136, 190, 150);
+  margin-left: 2px;
+}
+

@@ -1,0 +1,15 @@
+.navbar {
+  text-align: justify;
+}
+
+.nav-item {
+  margin-right: 10px;
+  float: left;
+}
+
+.main-nav {
+  text-align: justify;
+  list-style: none;
+  margin-right: 10%;
+}
+

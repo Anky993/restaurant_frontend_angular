@@ -1,0 +1,30 @@
+h1 {
+  /* font-size: 180%; */
+  word-spacing: 2px;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.line {
+  margin: 0 auto;
+  display: block;
+  border: 1px solid rgb(136, 190, 150);
+  width: 88px;
+  margin-bottom: 20px;
+}
+
+.navbar {
+  text-align: justify;
+}
+
+.nav-item {
+  margin-right: 10px;
+  float: left;
+}
+
+.main-nav {
+  text-align: justify;
+  list-style: none;
+  margin-right: 10%;
+}
+
